@@ -12,7 +12,8 @@
       {
          "name":"Super Bear",
          "url":"https://raw.githubusercontent.com/jalenluorion/helpme/main/superbear.json"
-      {,
+      },
+      {
          "name":"Geometry Dash",
          "url":"https://gist.githubusercontent.com/Sayajiaji/42fbf91b18c50e00085f52f617e104a2/raw/"
       },
@@ -29,5 +30,7 @@
          "url":"https://pastebin.com/raw/1xHJxuws"
       }
    ],
-   "blacklist": []
+   "blacklist":[
+      
+   ]
 }
