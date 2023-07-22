@@ -1,0 +1,32 @@
+{
+   "contact":"Bluey Alliance",
+   "whitelist":[
+      {
+         "name":"Bluey",
+         "url":"https://raw.githubusercontent.com/HappyDOGE/touhouplace2023/main/template.json"
+      },
+      {
+         "name":"My Little Pony",
+         "url":"https://raw.githubusercontent.com/Pink3SA/r-starwars_place-Template2-v1/main/r_starwars_place2_v1.json"
+      },
+      {
+         "name":"Super Bear",
+         "url":"https://raw.githubusercontent.com/jalenluorion/helpme/main/superbear.json"
+      {,
+         "name":"Geometry Dash",
+         "url":"https://gist.githubusercontent.com/Sayajiaji/42fbf91b18c50e00085f52f617e104a2/raw/"
+      },
+      {
+         "name":"UmaSenko",
+         "url":"http://ub8qbd.satdump.org/umasenko.json"
+      },
+      {
+         "name":"American Flag",
+         "url":"https://pastebin.com/raw/1x7239A1"
+      },
+      {
+         "name":"Rex:R",
+         "url":"https://pastebin.com/raw/1xHJxuws"
+      }
+   ]
+}
