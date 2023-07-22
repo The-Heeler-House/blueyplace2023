@@ -1,0 +1,15 @@
+{
+  "contact": ".gg/super-bear-adventure-398832325728796672",
+  "templates": [
+    {
+      "name": "Baaren (Super Bear Adventure)",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1012503858502709358/1132028244145754213/pixel-24x21_2.png"
+      ],
+      "x": -94,
+      "y": 176
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
