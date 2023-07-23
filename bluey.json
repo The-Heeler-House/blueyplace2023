@@ -16,6 +16,14 @@
 ],
 "x": 822,
 "y": 1242
+},
+{
+"name": "Sleepytime",
+"sources": [
+"https://media.discordapp.net/attachments/1121148862539763762/1132740170022658148/bingo_sleepy.png?width=100&height=100"
+],
+"x": 1723,
+"y": 1780
 }
 ],
 "whitelist": [],
