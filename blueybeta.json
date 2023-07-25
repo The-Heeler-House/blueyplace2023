@@ -24,6 +24,14 @@
 ],
 "x": 1723,
 "y": 1780
+},
+{
+"name": "taskbar",
+"sources": [
+"https://media.discordapp.net/attachments/1131330260957397092/1133254307727278181/bluey_icon_2.png?width=56&height=56"
+],
+"x": 290,
+"y": 1973
 }
 ],
 "whitelist": [],
