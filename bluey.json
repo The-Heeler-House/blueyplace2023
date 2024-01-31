@@ -4,42 +4,10 @@
 {
 "name": "Bluey and Bingo",
 "sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133491891422376046/image.png?width=144&height=146"
+"https://media.discordapp.net/attachments/1131330260957397092/1133236201466372116/image.png?width=720&height=730&ex=65cadef4&is=65b869f4&hm=d530ad54bea77b2d4a341ec5ec452c9e9ed775932f6f9b389fb6883691a4897a&"
 ],
-"x": 250,
-"y": 250
-},
-{
-"name": "Heeler House",
-"sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133110055236018318/heeler_house_hill_shorter_newest_2.png?width=26&height=76"
-],
-"x": 1322,
-"y": 1242
-},
-{
-"name": "Sleepytime",
-"sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133180903250731108/sleepytime_chattermax2.png?width=106&height=110"
-],
-"x": 2220,
-"y": 1780
-},
-{
-"name": "PixelMuffin",
-"sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133257303878013041/muffin.png?width=56&height=22"
-],
-"x": 2846,
-"y": 912
-},
-{
-"name": "taskbar",
-"sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133254307727278181/bluey_icon_2.png?width=56&height=56"
-],
-"x": 290,
-"y": 1971
+"x": 200,
+"y": 200
 }
 ],
 "whitelist": [],
