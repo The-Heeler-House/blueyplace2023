@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @namespace		littleendu.xyz
-// @downloadURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @updateURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
+// @namespace		jalenluorion
+// @downloadURL		https://raw.githubusercontent.com/jalenluorion/blueyplace2023/main/templateManage.user.js
+// @updateURL		https://raw.githubusercontent.com/jalenluorion/blueyplace2023/main/templateManage.user.js
 // @match			https://pxls.space/
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
