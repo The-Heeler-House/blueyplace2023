@@ -4,10 +4,42 @@
 {
 "name": "Bluey and Bingo",
 "sources": [
-"https://media.discordapp.net/attachments/1131330260957397092/1133236110538068008/image.png?ex=65cadedf&is=65b869df&hm=07dac7990c9ca120046f2f1881efefab6f83b156aa7808a25ebdf1b33122e877&=&format=webp&quality=lossless&width=144&height=146"
+"https://media.discordapp.net/attachments/1118705517913723041/1133103757295620177/template_new_colors_3.png?ex=666005db&is=665eb45b&hm=de950697dde9c626d1f2d05cc22968815a15b666758977f72b0574f52c8363c0&=&format=webp&quality=lossless&width=144&height=144"
 ],
-"x": 25,
-"y": 420
+"x": 1334,
+"y": 1193
+},
+{
+"name": "Heeler House",
+"sources": [
+"https://media.discordapp.net/attachments/1118705517913723041/1133103757002035310/heeler_house_hill_shorter_newest.png?ex=666005db&is=665eb45b&hm=9e87eebec18f7bb6dd032fbfbee7d68d79e87f157ec9216b91247cfa57302a84&=&format=webp&quality=lossless&width=26&height=76"
+],
+"x": 1322,
+"y": 1242
+},
+{
+"name": "Sleepytime",
+"sources": [
+"https://media.discordapp.net/attachments/1118705517913723041/1133102695742459914/sleepytime_all_alliances.png?ex=666004de&is=665eb35e&hm=477f8ba00014c7c688bfa24e859e00e099b547fb936c8205318db7db3ec6a2bc&=&format=webp&quality=lossless&width=106&height=118"
+],
+"x": 2220,
+"y": 1780
+},
+{
+"name": "PixelMuffin",
+"sources": [
+"https://media.discordapp.net/attachments/1118705517913723041/1133249109810221146/muffin.png?ex=665fe47a&is=665e92fa&hm=7a23b28e7ee447c2829d76fe5b0d6d314d296af9a0c7426ccf6368196a988b7f&=&format=webp&quality=lossless&width=56&height=22"
+],
+"x": 2846,
+"y": 912
+},
+{
+"name": "taskbar",
+"sources": [
+"https://media.discordapp.net/attachments/1131330260957397092/1133477928462729276/bluey_icon_4.png?ex=665f6815&is=665e1695&hm=e8b4b69337d7bb406e13e1083b8a693a53aa8a9a67f6e81b329603cf5b79f25d&=&format=webp&quality=lossless&width=56&height=56"
+],
+"x": 290,
+"y": 1971
 }
 ],
 "whitelist": [],
